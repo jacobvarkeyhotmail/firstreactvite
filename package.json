@@ -2,6 +2,10 @@
   "name": "firstreactvite",
   "private": true,
   "version": "0.0.0",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=6.0.0" 
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
